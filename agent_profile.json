@@ -1,0 +1,9 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "agent": {
+      "name": "security-researcher-test-agent",
+      "developer": "aakarshit"
+    }
+  }
+}
